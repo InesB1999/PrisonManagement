@@ -10,8 +10,11 @@ To start MySQL, go to system preferences, MySQL, and start MySQL server.
 For other users, you will need to download it from their websites.
 Now download the file and copy and paste the prison file into the following directory: XAMPP/htdocs. Note: copy the prison folder into this section
 
-To start the code: type into your browser: 
+To start  check everything is working by typing 
+http://127.0.0.1
+Now type into your browser: 
 http://127.0.0.1/prison/ 
+
 This will show you all the available pages for the application
 To start using the application, use the following link: 
 http://127.0.0.1/prison/signup.php
