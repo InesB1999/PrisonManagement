@@ -12,11 +12,24 @@ Now download the file and copy and paste the prison file into the following dire
 
 Open XAMPP, you will need to configure the control panel. You will need to start Apache and MySQL in particular. Make sure they are green.
 
+Download the files on github and rename is to PrisonManagement
+
 To start  check everything is working by typing 
 http://127.0.0.1 . This should lead to a page showing XAMPP. 
 Now type into your browser: 
 http://127.0.0.1/phpMyAdmin/
+ou will need to click "new" on the side and where it says database name, write "authenticate" 
+Click on authenticate
+At the top where it says import, you will need to import the file called authenticate.sql and press go. You should see the table "users" on the side under authenticate.  
+Click on "new" again and this time call it prison.
+Repeat the steps and import prison.sql this time. 
+You should see "prisoners" , "workers" and "Cases " underneath prison now. 
 
+You're all set up now 
+Go to this link: 
 
-
-You will need to click "new" on the side and where it says database name, write "authenticate" 
+http://127.0.0.1/PrisonManagement/signUp.php
+and you can start using the application. 
+ 
+ Anytime you want to go back to the database: http://127.0.0.1/phpMyAdmin/
+ For the login page: http://127.0.0.1/PrisonManagement/login.php
