@@ -8,7 +8,7 @@ As a Mac user, you will already have PHP, MySQL and Apache downloaded so you wil
 To start MySQL, go to system preferences, MySQL, and start MySQL server.
 
 For other users, you will need to download it from their websites.
-Now download the file and copy and paste the prison file into the following directory: XAMPP/htdocs
+Now download the file and copy and paste the prison file into the following directory: XAMPP/htdocs. Note: copy the prison folder into this section
 
 To start the code: type into your browser: 
 http://127.0.0.1/prison/ 
