@@ -1,4 +1,4 @@
-Please use Google Chrome, safari or firefox for this. 
+Please use Google Chrome, firefox browser for this. 
 
 You will need to download XAMPP from their website on the following link: https://www.apachefriends.org/download.html
 You will also need to have PHP, phpMyAdmin, MySQL and Apache downloaded.
