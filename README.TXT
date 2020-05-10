@@ -1,4 +1,4 @@
-Please use Google Chrome
+Please use Google Chrome, safari or firefox for this. 
 
 You will need to download XAMPP from their website on the following link: https://www.apachefriends.org/download.html
 You will also need to have PHP, phpMyAdmin, MySQL and Apache downloaded.
@@ -33,3 +33,5 @@ and you can start using the application.
  
  Anytime you want to go back to the database: http://127.0.0.1/phpMyAdmin/
  For the login page: http://127.0.0.1/PrisonManagement/login.php
+
+Please note that the app was designed with safari originally therefore any issues without layout, please zoom out of the page and it will fix it. 
